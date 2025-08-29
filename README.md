@@ -11,5 +11,4 @@ Run "demo_OBCut.m" to test the algorithm.
 ## Further Questions?
 Don't hesitate to contact us if you have any questions regarding this work.   
 **Email**:   
-siguofang at hotmail dot com  
 huangdonghere at gmail dot com
